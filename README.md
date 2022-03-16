@@ -12,7 +12,7 @@
 
 **Requirements**
 
-Ensure you have the necessary software installed on your laptop: Git, R, and RStudio. Installation instructions are on the [workshop page](https://lunasare.github.io/2022-03-17-rutgers-online/#setup).
+Ensure you have the necessary software installed on your laptop: Git, R, and RStudio. [Installation instructions][installation] are on the [workshop page](https://lunasare.github.io/2022-03-17-rutgers-online/).
 
 We will use a collaborative virtual document called the [etherpad][etherpad] throughout the workshop, be sure to register there everyday of the workshop.
 
@@ -34,6 +34,8 @@ Be sure to complete the [pre-workshop survey](https://carpentries.typeform.com/t
 [git]: https://swcarpentry.github.io/git-novice/
 [unix]: https://swcarpentry.github.io/shell-novice/
 [etherpad]: https://pad.carpentries.org/2022-03-17-rutgers-online
+[installation]: https://lunasare.github.io/2022-03-17-rutgers-online/#setup
+
 [github-project-pages]: https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
 [issues]: https://github.com/carpentries/workshop-template/issues
 [lesson-example]: https://carpentries.github.io/lesson-example/
